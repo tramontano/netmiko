@@ -65,14 +65,18 @@ Answers to some [common questions](COMMON_ISSUES.md)
 ### Tutorials
 
 - [Netmiko Overview](https://pynet.twb-tech.com/blog/automation/netmiko.html)
+- [Netmiko read_timeout](https://pynet.twb-tech.com/blog/netmiko-read-timeout.html)
 - [Secure Copy](https://pynet.twb-tech.com/blog/automation/netmiko-scp.html)
 - [Netmiko through SSH Proxy](https://pynet.twb-tech.com/blog/automation/netmiko-proxy.html)
 - [Netmiko and TextFSM](https://pynet.twb-tech.com/blog/automation/netmiko-textfsm.html)
-- [Netmiko and what constitutes done](https://pynet.twb-tech.com/blog/automation/netmiko-what-is-done.html)
+- [send_command_timing()](https://pynet.twb-tech.com/blog/netmiko-send-command-timing.html)
+- [send_multiline() for handling additional prompts](https://pynet.twb-tech.com/blog/netmiko4-send-multiline.html)
+- [send_multiline_timing()](https://pynet.twb-tech.com/blog/netmiko4-send-multiline-timing.html)
+- [ConnLogOnly()](https://pynet.twb-tech.com/blog/netmiko/ConnLogOnly.html)
 
 <br />
 
-### Getting Started:
+### Getting Started:<a id="getting-started-1"></a>
 
 #### Create a dictionary representing the device.
 
