@@ -104,8 +104,7 @@ SSH_MAPPER_DICT = {
         "cmd": "show version",
         "search_patterns": [
             "Cisco IOS Software",
-            "Cisco Internetwork Operating System Software",
-        ],
+            "Cisco Internetwork Operating System Software"],
         "priority": 99,
         "dispatch": "_autodetect_std",
     },
